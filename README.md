@@ -1,1 +1,1 @@
-# Bioinformatics-Learning-Journal---Week-1
+# Bioinformatics-Learning-Journal-Week-1
